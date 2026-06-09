@@ -7,7 +7,7 @@ const lawyers = [
     specialty: 'Derecho Civil y Mercantil',
     bio: '25 años de trayectoria en derecho civil y mercantil. Colegiado n.º 5.241. Máster en Derecho Empresarial por la Universidad Complutense.',
     photo:
-      'https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=600&q=80',
+      'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=800&q=80',
   },
   {
     name: 'María González Vidal',
@@ -15,7 +15,7 @@ const lawyers = [
     specialty: 'Derecho de Familia y Laboral',
     bio: '18 años de experiencia en procesos familiares y derecho laboral. Reconocida por su sensibilidad y eficacia en casos de alta complejidad.',
     photo:
-      'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=600&q=80',
+      'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=800&q=80',
   },
   {
     name: 'Javier Martínez Polo',
@@ -23,7 +23,7 @@ const lawyers = [
     specialty: 'Derecho Penal e Inmobiliario',
     bio: '12 años especializándose en defensa penal y derecho inmobiliario. Experto en negociación y resolución de conflictos complejos.',
     photo:
-      'https://images.unsplash.com/photo-1556157382-97eda2f9e2bf?auto=format&fit=crop&w=600&q=80',
+      'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=800&q=80',
   },
 ]
 
