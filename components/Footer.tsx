@@ -89,6 +89,12 @@ export default function Footer() {
           <p>
             &copy; {currentYear} Bufete Legal Campos. Todos los derechos reservados.
           </p>
+          <p>
+            Web by{" "}
+            <a href="https://muestrateagency.netlify.app" className="text-gold hover:underline" target="_blank" rel="noopener noreferrer">
+              MUESTRATE!
+            </a>
+          </p>
           <div className="flex gap-5">
             <a href="#" className="hover:text-gold transition-colors">
               Política de privacidad
