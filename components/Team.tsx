@@ -7,7 +7,7 @@ const lawyers = [
     specialty: 'Derecho Civil y Mercantil',
     bio: '25 años de trayectoria en derecho civil y mercantil. Colegiado n.º 5.241. Máster en Derecho Empresarial por la Universidad Complutense.',
     photo:
-      'https://images.unsplash.com/photo-1507679799987-c73779587ccf?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=800&q=80',
+      'https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=800&q=80',
   },
   {
     name: 'María González Vidal',
